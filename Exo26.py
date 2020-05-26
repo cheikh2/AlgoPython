@@ -11,7 +11,7 @@ while rep == 1:
         croissant  = croissant+1
     if n < p:
         p = n
-        decroissant= decroissant + 1
+        decroissant = decroissant + 1
     rep = int(input("taper 1 si vous voulez continuer à saisir: "))
     t = t+1
 if t == croissant:
